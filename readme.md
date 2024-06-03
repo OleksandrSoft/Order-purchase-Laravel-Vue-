@@ -61,21 +61,8 @@ Once installed and built, you need to create database and configure it in .env f
 - webpack - Module Bundler
 - git - Source Control
 
-## Author
-- Ramesh Kumar (inforkgodara)
-
 ## Screenshots
 
 ### Login purchase orders
 ![login purchase orders](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/1-login-purchase-orders.png?raw=true "login")
 
-### Branch module list view
-![list of branch module](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/2-branch-module-list-view.png?raw=true "list view")
-
-### Purchase order creation
-![order creation](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/3-purchase-order-creation.png?raw=true "purchase order creation")
-
-### Creditor creation
-![creditor creation](https://raw.github.com/inforkgodara/purchase-orders/master/screenshots/4-creditor-creation.png?raw=true "creditor creation")
-
-Note: Kindly check before using it cause getting security vulnerability warnings from github.
